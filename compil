@@ -1,0 +1,1 @@
+-L /usr/lib64 -lmlx -L/usr/lib64/X11 -lXext -lX11
